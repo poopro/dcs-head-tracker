@@ -1,0 +1,4 @@
+# Windows launchers must keep CRLF line endings, whatever git or a zip download does
+*.bat -text
+*.vbs -text
+*.ps1 -text

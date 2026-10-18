@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+error.log
+face_landmarker.task
+build/
+dist/
+*.spec
+.venv/
+screenshots/
+tests/*.png
